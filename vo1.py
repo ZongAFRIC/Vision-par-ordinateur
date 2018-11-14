@@ -70,3 +70,7 @@ mystere.show(img)
 
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+
+
+git remote add origin https://github.com/ZongAFRIC/inoussa1.git
